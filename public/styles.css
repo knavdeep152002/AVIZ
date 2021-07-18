@@ -1,0 +1,11 @@
+.bar{
+    background-color: aqua;
+    width: 10px;
+    height: 10px;
+    display: inline-block;
+    margin: 0 5px 
+}
+body{
+    text-align: center;
+    margin-top: 100px;
+}
